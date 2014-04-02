@@ -8,3 +8,5 @@ print(c)
 d = a+b+c
 
 print(d)
+
+print("il fait beau n'est-ce pas?!?")
